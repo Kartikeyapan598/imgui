@@ -4,6 +4,13 @@
 ## Dear ImGui artifacts
 imgui.ini
 
+# Cndr gen Files
+
+bin/
+bin-int/
+*.vcxproj
+*.vcxproj.filters
+
 ## General build artifacts
 *.o
 *.obj
